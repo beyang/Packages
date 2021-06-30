@@ -4,6 +4,7 @@
 name: Thrift
 file_extensions:
   - thrift
+  - frugal
 scope: source.thrift
 contexts:
   main:
